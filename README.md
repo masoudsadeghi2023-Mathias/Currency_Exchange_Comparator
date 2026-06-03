@@ -18,3 +18,5 @@ The app supports:
 ```bash
 pip install streamlit
 streamlit run app.py
+
+![App Screenshot](screenshot.png)
